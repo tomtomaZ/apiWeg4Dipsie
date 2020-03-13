@@ -1,0 +1,30 @@
+﻿  WegIoT2AzureSolution.c
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(446,9): warning C4033: 'ParsingJsonMotorTelemetryVibra' deve retornar um valor
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(453,80): warning C4090: '=': qualificadores 'const' diferentes
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(509,9): warning C4033: 'ParsingJsonMotorTelemetryTemp' deve retornar um valor
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(520,80): warning C4090: '=': qualificadores 'const' diferentes
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(535,16): warning C4047: '==': 'int' difere em níveis de indireção de 'char [1]'
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(542,7): warning C4101: 'hora': variável local não referenciada
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(543,7): warning C4101: 'dia': variável local não referenciada
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(540,8): warning C4101: 'idDevice': variável local não referenciada
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(541,7): warning C4101: 'min': variável local não referenciada
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(545,7): warning C4101: 'ano': variável local não referenciada
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(544,7): warning C4101: 'mes': variável local não referenciada
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(576,146): error C2110: '+': não é possível somar dois ponteiros
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(576,233): error C2065: 'tempoInicial': identificador não declarado
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(576,261): error C2065: 'tempoFinal': identificador não declarado
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(579,23): warning C4047: 'função': 'LPCWSTR *' difere em níveis de indireção de 'int'
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(579,23): warning C4024: 'WinHttpOpenRequest': tipos diferentes para parâmetro formal e real 6
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(579,23): error C2198: 'WinHttpOpenRequest': poucos argumentos para chamada
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(655,72): warning C4047: 'função': 'LPSTR *' difere em níveis de indireção de 'LPSTR'
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(655,72): warning C4024: 'ParsingJsonMotorTelemetryVibra': tipos diferentes para parâmetro formal e real 1
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(708,147): error C2065: 'consultaidDevice': identificador não declarado
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(708,222): error C2110: '+': não é possível somar dois ponteiros
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(711,23): warning C4047: 'função': 'LPCWSTR *' difere em níveis de indireção de 'int'
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(711,23): warning C4024: 'WinHttpOpenRequest': tipos diferentes para parâmetro formal e real 6
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(711,23): error C2198: 'WinHttpOpenRequest': poucos argumentos para chamada
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(712,14): warning C4013: 'mudaValores' indefinido; assumindo extern retornando int
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(787,73): warning C4047: 'função': 'LPSTR *' difere em níveis de indireção de 'LPSTR'
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(787,73): warning C4024: 'ParsingJsonMotorTelemetryTemp': tipos diferentes para parâmetro formal e real 1
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(787,99): warning C4047: 'função': 'char' difere em níveis de indireção de 'char *'
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(787,99): warning C4024: 'ParsingJsonMotorTelemetryTemp': tipos diferentes para parâmetro formal e real 2

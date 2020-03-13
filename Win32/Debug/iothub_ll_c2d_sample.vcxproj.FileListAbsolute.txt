@@ -1,0 +1,2 @@
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\Win32\Debug\WegIoT2AzureSolution.exe
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\Win32\Debug\WegIoT2AzureSolution.pdb

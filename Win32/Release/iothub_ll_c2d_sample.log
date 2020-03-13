@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: O diretório intermediário (Win32\Release\) contém arquivos compartilhados de outro projeto (iothub_ll_c2d_sample.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  certs.c
+  WegIoT2AzureSolution.c
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(433,9): warning C4033: 'ParsingJsonMotorTelemetryVibra' deve retornar um valor
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(440,80): warning C4090: '=': qualificadores 'const' diferentes
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(486,9): warning C4033: 'ParsingJsonMotorTelemetryTemp' deve retornar um valor
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(493,80): warning C4090: '=': qualificadores 'const' diferentes
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(602,66): warning C4047: 'função': 'LPSTR *' difere em níveis de indireção de 'LPSTR'
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(602,66): warning C4024: 'ParsingJsonMotorTelemetryVibra': tipos diferentes para parâmetro formal e real 1
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(717,65): warning C4047: 'função': 'LPSTR *' difere em níveis de indireção de 'LPSTR'
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(717,65): warning C4024: 'ParsingJsonMotorTelemetryTemp': tipos diferentes para parâmetro formal e real 1
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(466): warning C4715: 'ParsingJsonMotorTelemetryVibra': nem todos os caminhos de controle retornam um valor
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\WegIoT2AzureSolution.c(506): warning C4715: 'ParsingJsonMotorTelemetryTemp': nem todos os caminhos de controle retornam um valor
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  iothub_ll_c2d_sample.vcxproj -> C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegIoT2AzureSolution\windows\Win32\Release\WegIoT2AzureSolution.exe
